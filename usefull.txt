@@ -1,0 +1,2 @@
+go get skip gwt redirect replace find:proxy.golang.org/github.com/@v/
+replace:github.com/archive/refs/tags/
